@@ -6,6 +6,5 @@ faiss-cpu
 python-dotenv
 sentence-transformers
 requests
-supabase-py 
-openai
+supabase
 pandas
