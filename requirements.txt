@@ -1,5 +1,5 @@
 streamlit
-phi-assistant
+phidata
 groq
 numpy
 faiss-cpu
