@@ -5,7 +5,7 @@ numpy
 faiss-cpu
 python-dotenv
 sentence-transformers
-pymysql
+requests
 supabase-py 
 openai
 pandas
